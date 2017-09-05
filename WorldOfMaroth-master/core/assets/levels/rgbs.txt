@@ -1,0 +1,24 @@
+ground - 0, 0, 255
+rock - 196, 88, 88
+
+thorn - 255, 255, 0
+iron - 255, 0, 255
+
+slime - 0, 255, 0
+wolf - 169, 8, 179
+skeleton - 242, 3, 3
+vulture - 70, 3, 3
+
+
+yellowKey - 127, 0, 0
+greenKey - 0, 127, 0
+blueKey - 0, 0, 127
+
+yellowDoor - 127, 100, 100
+greenDoor - 100, 127, 100
+blueDoor - 100, 100, 127
+
+teleportA - 151, 230, 143
+teleportB - 150, 200, 140
+
+player - 255, 255, 255

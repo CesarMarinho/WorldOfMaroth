@@ -1,0 +1,8 @@
+chão1 - 0 0 255
+chão2 - 127 0 0
+thorn - 255 255 0
+warrior - 255 255 255
+enemy - 0 255 0
+bdoor - 0 0 127
+bkey - 0 127 127
+iron - 255 0 255
